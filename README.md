@@ -1,7 +1,7 @@
 ## Introduction
 My Valentine's Day gift to the sweetheart.
 
-1.~~ [http://netcan.zzilcc.com](http://netcan.zzilcc.com)~~
+1. ~~[http://netcan.zzilcc.com](http://netcan.zzilcc.com)~~
 2. [http://netcan.github.io/MyEx](http://netcan.github.io/MyEx)
 
 ## TODO
